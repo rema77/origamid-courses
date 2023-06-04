@@ -4,7 +4,7 @@
 <h1> Origamid Courses</h1>
 <p>👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆</p>
 <br>
-<p>::white_large_square: Web Design Completo</p>
+<p>:white_large_square: Web Design Completo</p>
 <p>:white_check_mark: CSS Flexbox <a target="_blank" href=""  title="Certificate">🏆</a></p>
 <p>:white_large_square: UI Design Avançado</p>
 <p>:white_square_button: JavaScript Completo ES6 :hourglass:</p>
