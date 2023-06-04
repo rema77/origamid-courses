@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Origamid logo" src="./origamid.svg" width="150px" />
+    <img alt="Origamid logo" src="./origamid_logo.svg" width="150px" />
 </h1>
 <h1> Origamid Courses</h1>
 <p>👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆</p>
