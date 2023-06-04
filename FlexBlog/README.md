@@ -1,4 +1,4 @@
-# origamid-css-flexbox
+# Origamid CSS Flexbox
 
 Curso de [CSS Flexbox][curso] do [Origamid][origamid].
 
@@ -26,5 +26,6 @@ O projeto resultante desse curso está armazenado nesse repositório e pode ser 
 [origamid]: https://www.origamid.com
 [guia-link]: https://origamid.com/projetos/flexbox-guia-completo
 [github-pages]: https://pages.github.com
-[repo]: https://jeffersondev.github.io/origamid-css-flexbox
+[repo]: https://rema77.github.io/origamid-courses/flexbox
+
 
