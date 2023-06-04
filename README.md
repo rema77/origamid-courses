@@ -7,11 +7,11 @@
 <p>:white_large_square: Web Design Completo</p>
 <p>:white_check_mark: CSS Flexbox <a target="_blank" href=""  title="Certificate">🏆</a></p>
 <p>:white_large_square: UI Design Avançado</p>
-<p>:white_square_button: JavaScript Completo ES6 :hourglass:</p>
+<p>:white_large_square: JavaScript Completo ES6 :hourglass:</p>
 <p>:white_large_square: React Completo</p>
 <p>:white_large_square: UX Design Heurísticas</p>
 <p>:white_large_square: Tipografia Avançada</p>
-<p>:white_large_square: CSS Grid Layout</p>
+<p>:white_square_button: CSS Grid Layout</p>
 <p>:white_large_square: WordPress Como CMS</p>
 <p>:white_large_square: CSS Avançado Posicionamento</p>
 <p>:white_large_square: WooCommerce Como CMS</p>
