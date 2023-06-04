@@ -65,14 +65,14 @@ O projeto resultante desse curso está armazenado nesse repositório e pode ser 
 <!-- outro README -->
 
 <h1 align="center">
-    <img alt="Origamid" src="Git/banner.png" width="700px" />
+    <img alt="Origamid logo" src="origamid.svg" width="150px" />
 </h1>
-<h2> Origamid Courses</h2>
+<h1> Origamid Courses</h1>
 <p>👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆</p>
 <br>
-<p>:white_check_mark: Web Design Completo <a target="_blank" href="https://www.origamid.com/certificate/bec64f6b/"  title="Certificate">🏆</a>  </p>
-<p>:white_check_mark: CSS Flexbox <a target="_blank" href="https://www.origamid.com/certificate/14e14adb/"  title="Certificate">🏆</a></p>
-<p>:white_check_mark: UI Design Avançado <a target="_blank" href="https://www.origamid.com/certificate/cfd2884f/"  title="Certificate">🏆</a></p>
+<p>::white_large_square: Web Design Completo</p>
+<p>:white_check_mark: CSS Flexbox <a target="_blank" href=""  title="Certificate">🏆</a></p>
+<p>:white_large_square: UI Design Avançado</p>
 <p>:white_square_button: JavaScript Completo ES6 :hourglass:</p>
 <p>:white_large_square: React Completo</p>
 <p>:white_large_square: UX Design Heurísticas</p>
