@@ -5,7 +5,7 @@
 <p>👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆</p>
 <br>
 <p>:white_large_square: Web Design Completo</p>
-<p>:white_check_mark: CSS Flexbox <a target="_blank" href="https://origamid.com/certificate/2aabcf77"  title="Certificate">🏆</a></p>
+<p>:white_check_mark: CSS Flexbox <a href="https://origamid.com/certificate/2aabcf77" target="_blank" title="Certificate">🏆</a></p>
 <p>:white_large_square: UI Design Avançado</p>
 <p>:white_large_square: JavaScript Completo ES6 :hourglass:</p>
 <p>:white_large_square: React Completo</p>
