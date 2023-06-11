@@ -1,6 +1,6 @@
 # Projeto Wildbeast
 
-<img  src="./assets/img/icones/projeto_wildbeast.png" align="center" width="655" alt="Projeto Wildbeast">
+<img src="https://github.com/rema77/origamid-courses/blob/master/cssGridLayout/assets/img/projeto_wildbeast.png" width="655" alt="Projeto Wildbeast">
 
 ## 💻 Projeto
 
