@@ -6,6 +6,8 @@
 
 O WildBeast é um projeto desenvolvido no curso de CSS Grid Layout da plataforma origamid, onde o objetivo é treinar a questão de posicionamento, utilizando o CSS Grid Layout.
 
+## Lições aprendidas
+
 - Grid Container
 - Grid Item
 
