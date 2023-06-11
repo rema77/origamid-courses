@@ -11,13 +11,9 @@ O WildBeast é um projeto desenvolvido no curso de CSS Grid Layout da plataforma
 - Grid Container
 - Grid Item
 
----
-
 ### 🚀 Tecnologias utilizadas
 
 <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
----
 
 ### Você pode me encontrar aqui também 👇
 
