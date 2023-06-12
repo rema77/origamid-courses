@@ -3,7 +3,8 @@
   <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.png">
 </picture>
 
-## Courses
+# Courses
+
 👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆
 
 <p>:white_square_button: UI Design para Iniciantes</p>
