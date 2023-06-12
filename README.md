@@ -40,4 +40,3 @@
 <p>:white_large_square: Automação Front End com NPM</p>
 <p>:white_large_square: JavaScript e jQuery</p>
 <p>:white_large_square: Web Design Completo</p>
-# cssGridLayout
