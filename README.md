@@ -13,6 +13,10 @@
  />
 </picture>
 
+![GitHub-Mark-Light](https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.svg)#gh-dark-mode-only)
+![GitHub-Mark-Dark](https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.sv)#gh-light-mode-only)
+
+
 <h1> Origamid Courses</h1>
 <p>👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆</p>
 <br>
