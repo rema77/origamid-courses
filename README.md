@@ -3,15 +3,9 @@
 </h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.svg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.png">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.svg">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.svg">
-</picture>
-
 
 <h1> Origamid Courses</h1>
 <p>👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆</p>
