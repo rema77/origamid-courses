@@ -4,14 +4,14 @@
 
 <picture>
  <source width="250px"
-  srcset="./origamid_logo-dark.svg"
+  srcset="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.svg"
   media="(prefers-color-scheme: dark)"
  />
  <source  width="250px"
-  srcset="./origamid_logo-light.svg"
+  srcset="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.svg"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
  />
- <img src="./origamid_logo-dark.svg" />
+ <img src="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.svg" />
 </picture>
 
 <h1> Origamid Courses</h1>
