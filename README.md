@@ -4,9 +4,8 @@
 </picture>
 
 # Courses
-
 👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆
-
+##
 <p>:white_square_button: UI Design para Iniciantes</p>
 <p>:white_large_square: HTML e CSS para Iniciantes</p>
 <p>:white_check_mark: CSS Flexbox <a href="https://origamid.com/certificate/2aabcf77" target="_blank" title="Certificate">🏆</a></p>
