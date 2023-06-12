@@ -5,27 +5,26 @@
 
 # Courses
 👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆 
- 
-:white_square_button: UI Design para Iniciantes
-:white_large_square: HTML e CSS para Iniciantes
-:white_check_mark: CSS Flexbox [🏆](https://origamid.com/certificate/2aabcf77 "🏆")
-:white_check_mark: CSS Grid Layout [🏆](https://origamid.com/certificate/7376c548 "🏆")
-:white_large_square: UI Design Avançado
-:white_large_square: JavaScript Completo ES6 :hourglass:
-:white_large_square: React Completo
-:white_large_square: Wordpress REST API Dogs
-:white_large_square: TypeScript para Iniciantes
-:white_large_square: Redux com React
-:white_large_square: WordPress Como CMS
-:white_large_square: CSS Avançado Posicionamento
-:white_large_square: Tipografia Avançada
-:white_large_square: CSS com SASS
-:white_large_square: UX Design Heurísticas
-:white_large_square: Adobe XD
-:white_large_square: Vue.js Completo
-:white_large_square: Wordpress REST API
-:white_large_square: WooCommerce Como CMS
-:white_large_square: Bootstrap 4
-:white_large_square: Automação Front End com NPM
-:white_large_square: JavaScript e jQuery
-:white_large_square: Web Design Completo
+<p>:white_square_button: UI Design para Iniciantes</p>
+<p>:white_large_square: HTML e CSS para Iniciantes</p>
+<p>:white_check_mark: CSS Flexbox [🏆](https://origamid.com/certificate/2aabcf77 "🏆")</p>
+<p>:white_check_mark: CSS Grid Layout [🏆](https://origamid.com/certificate/7376c548 "🏆")</p>
+<p>:white_large_square: UI Design Avançado</p>
+<p>:white_large_square: JavaScript Completo ES6 :hourglass:</p>
+<p>:white_large_square: React Completo</p>
+<p>:white_large_square: Wordpress REST API Dogs</p>
+<p>:white_large_square: TypeScript para Iniciantes</p>
+<p>:white_large_square: Redux com React</p>
+<p>:white_large_square: WordPress Como CMS</p>
+<p>:white_large_square: CSS Avançado Posicionamento</p>
+<p>:white_large_square: Tipografia Avançada</p>
+<p>:white_large_square: CSS com SASS</p>
+<p>:white_large_square: UX Design Heurísticas</p>
+<p>:white_large_square: Adobe XD</p>
+<p>:white_large_square: Vue.js Completo</p>
+<p>:white_large_square: Wordpress REST API</p>
+<p>:white_large_square: WooCommerce Como CMS</p>
+<p>:white_large_square: Bootstrap 4</p>
+<p>:white_large_square: Automação Front End com NPM</p>
+<p>:white_large_square: JavaScript e jQuery</p>
+<p>:white_large_square: Web Design Completo</p>
