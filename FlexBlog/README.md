@@ -1,31 +1,20 @@
-# Origamid CSS Flexbox
+# Projeto Flexblog
 
-Curso de [CSS Flexbox][curso] do [Origamid][origamid].
+<img src="https://github.com/rema77/origamid-courses/blob/master/cssGridLayout/assets/img/projeto_Flexblog.png" width="655" alt="Projeto Flexblog">
 
-Este repositório contém a minha visão sobre o curso, as lições aprendidas e o projeto desenvolvido durante o curso.
+## 💻 Projeto
 
----
-
-## O curso
-
-Neste curso o instrutor `André Rafael` nos ensina como desenvolver um website utilizando somente css flexbox para definir o layout.
-
-O instrutor deixou disponível em um [guia][guia-link] com um resumo das propriedades css para flexbox.
-
-O projeto resultante desse curso está armazenado nesse repositório e pode ser visualizado [neste link][repo]. Ele está hospedado aqui no GitHub utilizando o [GitHub Pages][github-pages].
-
----
+O Flexblog é um projeto desenvolvido no curso de Flexbox da plataforma origamid, onde o objetivo é treinar a questão de posicionamento, utilizando o Flexbox.
 
 ## Lições aprendidas
 
-#### 1. Flex Container
+- Flex Container
+- Flex Item
 
-#### 2. Flex Item
+## 🚀 Tecnologias utilizadas
 
-[curso]: https://www.origamid.com/grade-curso/css-flexbox
-[origamid]: https://www.origamid.com
-[guia-link]: https://origamid.com/projetos/flexbox-guia-completo
-[github-pages]: https://pages.github.com
-[repo]: https://rema77.github.io/origamid-courses/flexbox
+<img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+## Você pode me encontrar aqui também 👇
 
+<a href="https://instagram.com/renatovmartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/renatovmartins/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:renatovmartins@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://discord.gg/renatovitormartins#1155" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
