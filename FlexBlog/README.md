@@ -1,6 +1,6 @@
 # Projeto Flexblog
 
-<img src="https://github.com/rema77/origamid-courses/blob/master/cssGridLayout/assets/img/projeto_Flexblog.png" width="655" alt="Projeto Flexblog">
+<img src="https://github.com/rema77/origamid-courses/blob/master/FlexBlog/assets/img/projeto_flexbox.png?raw=true" width="655" alt="Projeto Flexblog">
 
 ## 💻 Projeto
 
