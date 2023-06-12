@@ -2,9 +2,9 @@
     <img alt="Origamid logo" src="./origamid_logo.svg" width="250px" />
 </h1>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.png">
+<picture>
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.png">
+  <img align="center" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.png">
 </picture>
 
 <h1> Origamid Courses</h1>
