@@ -7,8 +7,8 @@
 👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆 
 <p>:white_square_button: UI Design para Iniciantes</p>
 <p>:white_large_square: HTML e CSS para Iniciantes</p>
-<p>:white_check_mark: CSS Flexbox [🏆](https://origamid.com/certificate/2aabcf77 "🏆")</p>
-<p>:white_check_mark: CSS Grid Layout [🏆](https://origamid.com/certificate/7376c548 "🏆")</p>
+<p>:white_check_mark: CSS Flexbox <a href="https://origamid.com/certificate/2aabcf77" target="_blank" title="Certificate">🏆</a></p>
+<p>:white_check_mark: CSS Grid Layout <a href="https://origamid.com/certificate/7376c548" target="_blank" title="Certificate">🏆</a></p>
 <p>:white_large_square: UI Design Avançado</p>
 <p>:white_large_square: JavaScript Completo ES6 :hourglass:</p>
 <p>:white_large_square: React Completo</p>
