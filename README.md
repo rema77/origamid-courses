@@ -5,6 +5,18 @@
 ![Origamid-Logo-Light](./origamid_logo-dark.svg#gh-dark-mode-only)
 ![Origamid-Logo-Dark](./origamid_logo-light.svg#gh-light-mode-only)
 
+<picture>
+ <source width="250px"
+  srcset="./origamid_logo-dark.svg"
+  media="(prefers-color-scheme: dark)"
+ />
+ <source  width="250px"
+  srcset="./origamid_logo-light.svg"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+ />
+ <img src="./origamid_logo-dark.svg" />
+</picture>
+
 <h1> Origamid Courses</h1>
 <p>👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆</p>
 <br>
