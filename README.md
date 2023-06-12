@@ -2,9 +2,6 @@
     <img alt="Origamid logo" src="./origamid_logo.svg" width="250px" />
 </h1>
 
-![Origamid-Logo-Light](./origamid_logo-dark.svg#gh-dark-mode-only)
-![Origamid-Logo-Dark](./origamid_logo-light.svg#gh-light-mode-only)
-
 <picture>
  <source width="250px"
   srcset="./origamid_logo-dark.svg"
