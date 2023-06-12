@@ -2,19 +2,8 @@
     <img alt="Origamid logo" src="./origamid_logo.svg" width="250px" />
 </h1>
 
-<picture>
- <source width="250px"
-  srcset="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.svg"
-  media="(prefers-color-scheme: dark)"
- />
- <source  width="250px"
-  srcset="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.svg"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
- />
-</picture>
-
-![GitHub-Mark-Light](https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.svg)#gh-dark-mode-only)
-![GitHub-Mark-Dark](https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.sv)#gh-light-mode-only)
+![GitHub-Mark-Light](https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.svg#gh-dark-mode-only)
+![GitHub-Mark-Dark](https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.sv#gh-light-mode-only)
 
 
 <h1> Origamid Courses</h1>
