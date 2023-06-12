@@ -11,7 +11,6 @@
   srcset="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-light.svg"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
  />
- <img src="https://github.com/rema77/origamid-courses/blob/master/origamid-logo-dark.svg" />
 </picture>
 
 <h1> Origamid Courses</h1>
