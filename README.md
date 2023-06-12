@@ -4,12 +4,12 @@
 </picture>
 
 # Courses
-👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆
-##
+👓 My progress in UX, UI &amp; Front End studies at EAD 🐺 Origamid. Projects and Certificates.🏆 
+ 
 :white_square_button: UI Design para Iniciantes
 :white_large_square: HTML e CSS para Iniciantes
 :white_check_mark: CSS Flexbox [🏆](https://origamid.com/certificate/2aabcf77 "🏆")
-:white_check_mark: CSS Grid Layout <a href="https://origamid.com/certificate/7376c548" target="_blank" title="Certificate">🏆</a>
+:white_check_mark: CSS Grid Layout [🏆](https://origamid.com/certificate/7376c548 "🏆")
 :white_large_square: UI Design Avançado
 :white_large_square: JavaScript Completo ES6 :hourglass:
 :white_large_square: React Completo
